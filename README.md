@@ -3,6 +3,8 @@
 A beautiful, dark-themed, web-based UI for the official Google Gemini CLI. 
 This project wraps the local Gemini CLI in an Express server and streams the responses directly to a sleek browser interface using Server-Sent Events (SSE). 
 
+![Gemini Web UI Demo](assets/demo.webp)
+
 ## Features
 - **Real-time Streaming**: Enjoy the exact same streaming speed as the terminal.
 - **Web LLM Interface**: A minimalistic, dark UI that looks and feels like top-tier commercial AI chatbots.
